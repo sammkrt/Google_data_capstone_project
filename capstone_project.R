@@ -1,4 +1,4 @@
-#gerekli paketleri yükleyelim
+#loading neccesary packages
 
 install.packages(tidyverse)
 install.packages("skimr")
